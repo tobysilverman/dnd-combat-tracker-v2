@@ -40,3 +40,13 @@
 .read-the-docs {
   color: #888;
 }
+
+.counter-controls {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.counter-controls button {
+  min-width: 4rem;
+}
